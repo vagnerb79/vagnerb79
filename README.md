@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 Estudando JavaScript FullStack na Digital House.
     - Executando atividades em HTML, CSS e Javascript. Nos proximos módulos, React e banco de dados.
     
-- Ferramentas e Tecnologias utilizadas nesse curso
+##Ferramentas e Tecnologias utilizadas nesse curso
 VSCode
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 CSS
