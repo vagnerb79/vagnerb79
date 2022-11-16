@@ -8,7 +8,7 @@
     - Executando atividades em HTML, CSS e Javascript. Nos proximos módulos, React e banco de dados.
     
 ###Ferramentas e Tecnologias utilizadas nesse curso
-VSCode
+###VSCode
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 CSS
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
