@@ -36,4 +36,3 @@ Google
 
 - 📫 Em breve, estarei incluindo aqui nosso projeto integrador de conclusão do curso.
 
-![Snake animation](https://github.com/vagnerb79/vagnerb79/blob/output/github-contribution-grid-snake.svg)
