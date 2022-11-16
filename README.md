@@ -1,18 +1,13 @@
 ### Vagner Bezerra
 ### Hello Devs!! 👋
 
-<!--
-**vagnerb79/vagnerb79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalhando na empresa Intelipost como Analista de Sistemas.
 - 🌱 Estudando JavaScript FullStack na Digital House.
 - 🔭 Atualmente trabalhando na empresa Intelipost como Analista de Sistemas.
 - 🌱 Estudando JavaScript FullStack na Digital House.
     - Executando atividades em HTML, CSS e Javascript. Nos proximos módulos, React e banco de dados.
     
-##Ferramentas e Tecnologias utilizadas nesse curso
+###Ferramentas e Tecnologias utilizadas nesse curso
 VSCode
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 CSS
