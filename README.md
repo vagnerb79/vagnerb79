@@ -1,9 +1,9 @@
 ### Vagner Bezerra
 ### Hello Devs!! 👋
 
-- 🔭 Atualmente trabalhando como Analista de Sistemas.
-- 🌱 Estudando JavaScript FullStack na Digital House.
-    - Executando atividades em HTML, CSS e Javascript.
+- Atualmente trabalhando como Analista de Sistemas.
+- Estudando JavaScript FullStack na Digital House.
+- Executando atividades em HTML, CSS, Javascript, C#, SQL Server.
     
 Ferramentas e Tecnologias utilizadas nesse curso
 
