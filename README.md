@@ -4,7 +4,7 @@
  - Estudando Quality Assurance
  - Contato: spotify.vagner@gmail.com
 ##
-<div style="align:center">
+<div>
     <a href="https://github.com/vagnerb79">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vagnerb79&show_icons=true&theme=dracula&include_all_commits=true&show_owner=true">   
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagnerb79&show_icons=true&theme=dracula">    
