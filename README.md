@@ -1,6 +1,6 @@
 ### Olá! eu sou Vagner Bezerra
 
- - Atualmente trabalho com Desenvolvimento Web FullStack (C#, Javascript, HTML, CSS, Node, Express)
+ - Desenvolvedor Web FullStack (C#, Javascript, HTML, CSS, Node, Express, React)
  - Estudando Quality Assurance
  - Contato: spotify.vagner@gmail.com
 ##
