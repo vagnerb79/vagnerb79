@@ -23,4 +23,3 @@
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
 </div>
 
-![Snake animation](https://github.com/vagnerb79/vagnerb79/blob/output/github-contribution-grid-snake.svg)
